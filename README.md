@@ -1,6 +1,11 @@
 # SQL_Music_Store_Data_Analysis
 
-Data analysis of Music Store
+Data analysis of Music Store 
+
+<h1>Database and Tools</h1>
+<hr/>
+Postegre SQL
+PgAdmin4
 
 <br/>
 <div style="text-align: center;">
