@@ -2,8 +2,8 @@
 Data analysis of Music Store using SQL
 
 <h2>Database and Tools</h2>
-<h3> -> Postegre SQL</h3>
-<h3> -> PgAdmin4</h3>
+<h4> -> Postegre SQL</h4>
+<h4> -> PgAdmin4</h4>
 
 <br/>
 <div style="text-align: center;">
