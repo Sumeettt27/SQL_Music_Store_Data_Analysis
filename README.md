@@ -1,6 +1,6 @@
 # SQL_Music_Store_Data_Analysis
 
-Data analysis of Music Store 
+Data analysis of Music Store using SQL
 
 <h2>Database and Tools</h2>
 <h3> -> Postegre SQL</h3>
