@@ -7,9 +7,6 @@ Data analysis of Music Store using SQL
   <li style="margin: 50px; padding: 0px;">PgAdmin4</li>
 </ul>
 
-<h5 style="margin:50px; padding:0px"> -> Postegre SQL</h5>
-<h5 style="margin:50px; padding:0px"> -> PgAdmin4</h5>
-
 
 
 Schema - Music Store Database
