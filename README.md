@@ -9,8 +9,5 @@ Data analysis of Music Store using SQL
 
 
 
-<div style="text-align: center; margin: 0;">
-    <p style="margin-bottom: 10px;">Schema - Music Store Database</p>
-</div>
 
 
